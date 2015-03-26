@@ -78,6 +78,6 @@ MySQL function version update pass on MySQL
 
     19 min 8 sec
 
-PHP Loop output on Ternimal by function "user_hash_password"
+PHP Loop output on Terminal by function "user_hash_password"
 
     5 min 38 sec
